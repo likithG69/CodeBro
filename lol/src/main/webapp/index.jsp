@@ -42,13 +42,13 @@
 </head>
 <body>
     <div class="container">
-        <h1>🚀 Welcome to DevOps</h1>
+        <h1>Welcome to DevOps</h1>
         <p>
             DevOps brings <strong>Development</strong> and <strong>Operations</strong> together<br>
             to build, test, and deploy applications faster and smarter.
         </p>
         <div class="tag">
-            CI/CD • Automation • Cloud • Monitoring
+            CI/CD  Automation   Cloud   Monitoring
         </div>
     </div>
 </body>
